@@ -35,6 +35,12 @@ Param1 - would be horizontal ratio and Param2 - would be vertical ratio
 
 Remember to activate access in Settings->Accessibility for the CLI resizer, Terminal, Karabinier shell
 
+
+Tested on:
+
+    -Catalina 10.15.7
+    -Monterey 12.1
+
 Current issues:
 - when connected to multiple monitors, will take the current window but it will be moved to the primary monitor, as a solution it should be taken the current active/focused display on:
 
