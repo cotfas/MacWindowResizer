@@ -46,3 +46,5 @@ Current issues:
 
       //getting display sizes
       auto mainDisplayId = CGDirectDisplayID();
+
+— This project was created in 2020.
